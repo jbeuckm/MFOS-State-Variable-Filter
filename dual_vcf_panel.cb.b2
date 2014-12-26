@@ -5,7 +5,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <points id="1">
-          <ModificationCount>20</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>7.5,0</p>
@@ -13,39 +13,39 @@
           </pts>
         </points>
         <points id="2">
-          <ModificationCount>20</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,128.5</p>
           </pts>
         </points>
         <points id="5">
-          <ModificationCount>20</ModificationCount>
+          <ModificationCount>22</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>0,125.5</p>
           </pts>
         </points>
-        <text id="14" p1="26.2829999999972,104.539,0" p2="19.4159999999972,36.4359999999998,0" Height="10.799999999999997" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>573</ModificationCount>
-          <mat m="Identity" />in</text>
+        <text id="14" p1="15.0429999999972,109.629,0" p2="8.1759999999972,41.5259999999998,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>610</ModificationCount>
+          <mat m="Identity" />in1</text>
         <text id="17" p1="24.5649999999967,93.069,0" p2="-4.33400000000329,24.966,0" Height="10.800000000000003" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>501</ModificationCount>
+          <ModificationCount>503</ModificationCount>
           <mat m="Identity" />CV</text>
-        <text id="19" p1="25.7720000000021,51.7920000000002,0" p2="20.9750000000021,10.3110000000002,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>665</ModificationCount>
+        <text id="19" p1="25.9220000000021,53.7920000000002,0" p2="21.1250000000021,12.3110000000002,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>681</ModificationCount>
           <mat m="Identity" />Q</text>
-        <text id="20" p1="28.7010000000028,73.076,0" p2="2.0160000000028,32.036,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>468</ModificationCount>
+        <text id="20" p1="28.8510000000028,75.076,0" p2="2.1660000000028,34.036,0" Height="10.8" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>484</ModificationCount>
           <mat m="Identity" />F</text>
         <text id="27" p1="24.59,10.1200000000001,0" p2="8.09,4.1100000000001,0" Height="12.000000000000004" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>123</ModificationCount>
+          <ModificationCount>125</ModificationCount>
           <mat m="Identity" />LP</text>
         <text id="7" p1="10.5499999999997,118.330000000002,0" p2="67.9999999999997,27.1300000000019,0" Height="8.09999999999999" Font="Arial" align="bottom,left">
-          <ModificationCount>349</ModificationCount>
+          <ModificationCount>351</ModificationCount>
           <mat m="Identity" />DUAL-VCF</text>
         <points id="44">
-          <ModificationCount>62</ModificationCount>
+          <ModificationCount>64</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>29.81,115.080000000002</p>
@@ -53,7 +53,7 @@
           </pts>
         </points>
         <pline id="34">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>2</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>60.7199999999956,0,0</p>
@@ -61,13 +61,13 @@
           </pts>
         </pline>
         <text id="36" p1="23.4700000000001,22.0400000000003,0" p2="6.97000000000014,16.0300000000003,0" Height="12" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>87</ModificationCount>
+          <ModificationCount>89</ModificationCount>
           <mat m="Identity" />BP</text>
         <text id="37" p1="23.34,33.9800000000001,0" p2="6.84,27.9700000000001,0" Height="12" Font="1CamBam_Stick_9" align="bottom,left">
-          <ModificationCount>43</ModificationCount>
+          <ModificationCount>45</ModificationCount>
           <mat m="Identity" />HP</text>
         <pline id="42" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>60.7199999999956,0,0</p>
@@ -77,7 +77,7 @@
           </pts>
         </pline>
         <points id="64">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>2</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>11.21,79.8299999999998</p>
@@ -100,6 +100,9 @@
             <p>49.1500000000005,38.25</p>
           </pts>
         </points>
+        <text id="65" p1="35.0529999999972,109.609,0" p2="28.1859999999972,41.5059999999998,0" Height="8" Font="1CamBam_Stick_9" align="bottom,left">
+          <ModificationCount>21</ModificationCount>
+          <mat m="Identity" />in2</text>
       </objects>
     </layer>
   </layers>
@@ -145,6 +148,7 @@
             <prim>7</prim>
             <prim>36</prim>
             <prim>37</prim>
+            <prim>65</prim>
           </primitive>
           <TargetDepth state="Value">-0.01</TargetDepth>
           <DepthIncrement state="Default">0.4</DepthIncrement>
@@ -226,7 +230,7 @@
           <LeadInMove state="Default" />
           <LeadOutMove state="Default" />
           <HoldingTabs state="Value">
-            <TabMethod>Manual</TabMethod>
+            <TabMethod>Automatic</TabMethod>
             <Width>2</Width>
             <Height>2</Height>
             <MinimumTabs>4</MinimumTabs>
@@ -236,6 +240,44 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
+          <Tabs>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>42</ParentEntityID>
+              <ParametricPoint>0.12499999999999999</ParametricPoint>
+              <Normal>
+                <X>1</X>
+                <Y>-0</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>42</ParentEntityID>
+              <ParametricPoint>0.375</ParametricPoint>
+              <Normal>
+                <X>0</X>
+                <Y>1</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>42</ParentEntityID>
+              <ParametricPoint>0.625</ParametricPoint>
+              <Normal>
+                <X>-1</X>
+                <Y>1.8369095307335642E-16</Y>
+              </Normal>
+            </HoldingTab>
+            <HoldingTab>
+              <NormalInverted>false</NormalInverted>
+              <ParentEntityID>42</ParentEntityID>
+              <ParametricPoint>0.87499999999999989</ParametricPoint>
+              <Normal>
+                <X>-4.04975223727852E-17</X>
+                <Y>-1</Y>
+              </Normal>
+            </HoldingTab>
+          </Tabs>
           <SideProfile state="Default" />
         </profile>
       </machineops>
