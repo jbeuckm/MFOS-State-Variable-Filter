@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="statevariablepcb.gif" units="Inches">
+<CADFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0.9.8.0" Name="statevariablepcb_pcb_pots" units="Inches">
   <layers>
-    <layer name="0" color="127,255,0">
-      <ModificationCount>0</ModificationCount>
+    <layer name="traces" color="127,255,0">
+      <ModificationCount>1</ModificationCount>
       <objects>
         <pline id="164" Closed="true">
           <ModificationCount>122</ModificationCount>
@@ -2509,822 +2509,126 @@
     <layer name=".031 drills" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
-        <points id="687">
-          <ModificationCount>93</ModificationCount>
+        <points id="1057">
+          <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>2.93629204321316,1.9169814694663,2.01451860791379E-16</p>
-          </pts>
-        </points>
-        <points id="688">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.9385825624934,1.75893563912964,1.82097467988838E-16</p>
-          </pts>
-        </points>
-        <points id="689">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.93629204321316,1.57569409671034,1.59657592275748E-16</p>
-          </pts>
-        </points>
-        <points id="690">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.93629204321316,1.37641891932933,1.35254227437762E-16</p>
-          </pts>
-        </points>
-        <points id="693">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.83550919488254,1.05574622009553,9.59844449398535E-17</p>
-          </pts>
-        </points>
-        <points id="694">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.407558757826601,2.40257155687749,2.60917531431069E-16</p>
-          </pts>
-        </points>
-        <points id="695">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.526665760399151,2.52167855945005,2.75503450644579E-16</p>
-          </pts>
-        </points>
-        <points id="696">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.666387436493881,2.28117403502469,2.46051113771146E-16</p>
-          </pts>
-        </points>
-        <points id="697">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.366329410782251,2.23994468798035,2.41002141735702E-16</p>
-          </pts>
-        </points>
-        <points id="698">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.167054233401251,2.24223520726059,2.41282640182115E-16</p>
-          </pts>
-        </points>
-        <points id="699">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.247222408209701,2.12083768540779,2.26416222522192E-16</p>
-          </pts>
-        </points>
-        <points id="700">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.345714737260081,2.00173068283524,2.11830303308684E-16</p>
-          </pts>
-        </points>
-        <points id="701">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.164763714121001,2.00173068283524,2.11830303308684E-16</p>
-          </pts>
-        </points>
-        <points id="702">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.16705423340125,1.82077965969616,1.89670926042006E-16</p>
-          </pts>
-        </points>
-        <points id="703">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.32739058301815,1.82077965969616,1.89670926042006E-16</p>
-          </pts>
-        </points>
-        <points id="704">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.46940277839312,1.76122615840989,1.82377966435252E-16</p>
-          </pts>
-        </points>
-        <points id="705">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.5678951074435,1.75893563912965,1.82097467988838E-16</p>
-          </pts>
-        </points>
-        <points id="706">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.66867795577412,1.75664511984941,1.81816969542425E-16</p>
-          </pts>
-        </points>
-        <points id="707">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.76717028482451,1.75664511984941,1.81816969542425E-16</p>
-          </pts>
-        </points>
-        <points id="708">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.86795313315513,1.75893563912965,1.82097467988838E-16</p>
-          </pts>
-        </points>
-        <points id="709">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.968735981485754,1.75893563912965,1.82097467988838E-16</p>
-          </pts>
-        </points>
-        <points id="710">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.06951882981638,1.75893563912965,1.82097467988838E-16</p>
-          </pts>
-        </points>
-        <points id="711">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.170301678147,1.75893563912965,1.82097467988838E-16</p>
-          </pts>
-        </points>
-        <points id="712">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.170301678147,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="713">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.06951882981638,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="714">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.968735981485754,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="715">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.87024365243537,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="716">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.76717028482451,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="717">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.56560458816326,1.45429657485754,1.44791174615826E-16</p>
-          </pts>
-        </points>
-        <points id="718">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.670968475054361,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="719">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.46940277839312,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="720">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.446497585590701,2.14145235892997,2.28940708539916E-16</p>
-          </pts>
-        </points>
-        <points id="721">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.66638743649388,1.98111600931307,2.09305817290961E-16</p>
-          </pts>
-        </points>
-        <points id="722">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.929797153721654,2.14145235892997,2.28940708539916E-16</p>
-          </pts>
-        </points>
-        <points id="723">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.808399631868851,2.40257155687749,2.60917531431069E-16</p>
-          </pts>
-        </points>
-        <points id="724">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.929797153721654,2.52167855945005,2.75503450644579E-16</p>
-          </pts>
-        </points>
-        <points id="725">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.170301678147,2.49877336664763,2.72698466180442E-16</p>
-          </pts>
-        </points>
-        <points id="726">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.27108452647762,2.49877336664763,2.72698466180442E-16</p>
-          </pts>
-        </points>
-        <points id="727">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.37186737480825,2.50106388592787,2.72978964626855E-16</p>
-          </pts>
-        </points>
-        <points id="728">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.41309672185259,2.34072753631097,2.53344073377901E-16</p>
-          </pts>
-        </points>
-        <points id="729">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.0489041562942,2.23765416870011,2.40721643289288E-16</p>
-          </pts>
-        </points>
-        <points id="730">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.170301678147,2.13916183964972,2.28660210093501E-16</p>
-          </pts>
-        </points>
-        <points id="731">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.53220372442515,2.24223520726059,2.41282640182115E-16</p>
-          </pts>
-        </points>
-        <points id="732">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.71315474756423,2.50335440520812,2.7325946307327E-16</p>
-          </pts>
-        </points>
-        <points id="733">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.65131072699771,2.36363272911339,2.56149057842038E-16</p>
-          </pts>
-        </points>
-        <points id="734">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.81164707661461,2.36134220983314,2.55868559395623E-16</p>
-          </pts>
-        </points>
-        <points id="735">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.99488861903392,2.40028103759725,2.60637032984656E-16</p>
-          </pts>
-        </points>
-        <points id="736">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.13461029512865,2.40257155687749,2.60917531431069E-16</p>
-          </pts>
-        </points>
-        <points id="737">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.27433197122338,2.40028103759725,2.60637032984656E-16</p>
-          </pts>
-        </points>
-        <points id="738">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.27433197122338,2.50335440520812,2.7325946307327E-16</p>
-          </pts>
-        </points>
-        <points id="739">
-          <ModificationCount>98</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.43466832084028,2.34634220983314,2.55868559395623E-16</p>
-          </pts>
-        </points>
-        <points id="740">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.43466832084028,2.20100586021624,2.36233668146669E-16</p>
-          </pts>
-        </points>
-        <points id="741">
-          <ModificationCount>98</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.83550919488254,2.34634220983314,2.55868559395623E-16</p>
-          </pts>
-        </points>
-        <points id="742">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.83550919488254,2.20100586021624,2.36233668146669E-16</p>
-          </pts>
-        </points>
-        <points id="743">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.77595569359626,1.95821081651065,2.06500832826824E-16</p>
-          </pts>
-        </points>
-        <points id="744">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.77595569359626,1.75893563912964,1.82097467988838E-16</p>
-          </pts>
-        </points>
-        <points id="745">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.51483649564873,1.85971848746027,1.94439399631038E-16</p>
-          </pts>
-        </points>
-        <points id="746">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.27433197122338,1.999440163555,2.1154980486227E-16</p>
-          </pts>
-        </points>
-        <points id="747">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.13231977584841,1.999440163555,2.1154980486227E-16</p>
-          </pts>
-        </points>
-        <points id="748">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.99488861903392,1.999440163555,2.1154980486227E-16</p>
-          </pts>
-        </points>
-        <points id="749">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.81393759589485,1.96050133579089,2.06781331273238E-16</p>
-          </pts>
-        </points>
-        <points id="750">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.81393759589485,1.89865731522437,1.9920787322007E-16</p>
-          </pts>
-        </points>
-        <points id="751">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.71315474756423,1.89865731522437,1.9920787322007E-16</p>
-          </pts>
-        </points>
-        <points id="752">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.65131072699771,1.93988666226872,2.04256845255516E-16</p>
-          </pts>
-        </points>
-        <points id="753">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.52991320514491,2.04066951059934,2.16598776897715E-16</p>
-          </pts>
-        </points>
-        <points id="754">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.41080620257236,1.93759614298848,2.03976346809102E-16</p>
-          </pts>
-        </points>
-        <points id="755">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.41080620257236,1.85971848746027,1.94439399631038E-16</p>
-          </pts>
-        </points>
-        <points id="756">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.63298657275577,1.7566451198494,1.81816969542425E-16</p>
-          </pts>
-        </points>
-        <points id="757">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.77270824885051,1.7566451198494,1.81816969542425E-16</p>
-          </pts>
-        </points>
-        <points id="758">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.87120057790089,1.7566451198494,1.81816969542425E-16</p>
-          </pts>
-        </points>
-        <points id="759">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.9719834262315,1.75893563912964,1.82097467988838E-16</p>
-          </pts>
-        </points>
-        <points id="760">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.07276627456213,1.7566451198494,1.81816969542425E-16</p>
-          </pts>
-        </points>
-        <points id="761">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.17125860361251,1.7566451198494,1.81816969542425E-16</p>
-          </pts>
-        </points>
-        <points id="762">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.27204145194314,1.75435460056916,1.81536471096011E-16</p>
-          </pts>
-        </points>
-        <points id="763">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.37282430027376,1.7566451198494,1.81816969542425E-16</p>
-          </pts>
-        </points>
-        <points id="764">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.77595569359626,1.57569409671034,1.59657592275748E-16</p>
-          </pts>
-        </points>
-        <points id="765">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.77366517431602,1.37641891932933,1.35254227437762E-16</p>
-          </pts>
-        </points>
-        <points id="766">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.51483649564873,1.45887761341802,1.45352171508652E-16</p>
-          </pts>
-        </points>
-        <points id="767">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.37511481955401,1.45887761341802,1.45352171508652E-16</p>
-          </pts>
-        </points>
-        <points id="768">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.27662249050362,1.45887761341802,1.45352171508652E-16</p>
-          </pts>
-        </points>
-        <points id="769">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.17583964217299,1.45887761341802,1.45352171508652E-16</p>
-          </pts>
-        </points>
-        <points id="770">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.07505679384238,1.45887761341802,1.45352171508652E-16</p>
-          </pts>
-        </points>
-        <points id="771">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.97427394551175,1.45887761341802,1.45352171508652E-16</p>
-          </pts>
-        </points>
-        <points id="772">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.87349109718112,1.45887761341802,1.45352171508652E-16</p>
-          </pts>
-        </points>
-        <points id="773">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.77499876813074,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="774">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.49326489666105,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="775">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.41080620257236,1.45658709413778,1.45071673062239E-16</p>
-          </pts>
-        </points>
-        <points id="776">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.32510006373791,1.41764826637367,1.40303199473207E-16</p>
-          </pts>
-        </points>
-        <points id="777">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.164763714121,1.41764826637367,1.40303199473207E-16</p>
-          </pts>
-        </points>
-        <points id="778">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.36632941078225,1.17714374194832,1.10850862599775E-16</p>
-          </pts>
-        </points>
-        <points id="779">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.76717028482451,1.17485322266808,1.10570364153362E-16</p>
-          </pts>
-        </points>
-        <points id="780">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.927506634441414,1.17485322266808,1.10570364153362E-16</p>
-          </pts>
-        </points>
-        <points id="781">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.2472224082097,1.03284102729311,9.31794604757166E-17</p>
-          </pts>
-        </points>
-        <points id="782">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.64806328225195,1.03284102729311,9.31794604757166E-17</p>
-          </pts>
-        </points>
-        <points id="783">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.10845765758048,1.17714374194832,1.10850862599775E-16</p>
-          </pts>
-        </points>
-        <points id="784">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.49326489666105,1.05803673937577,9.6264943386267E-17</p>
-          </pts>
-        </points>
-        <points id="785">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.63298657275577,1.1152997213818,1.03277404546607E-16</p>
-          </pts>
-        </points>
-        <points id="786">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.75209357532834,1.1152997213818,1.03277404546607E-16</p>
-          </pts>
-        </points>
-        <points id="787">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.73147890180615,1.31686541804305,1.27961267831007E-16</p>
-          </pts>
-        </points>
-        <points id="788">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.83455226941702,1.31686541804305,1.27961267831007E-16</p>
-          </pts>
-        </points>
-        <points id="789">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.89410577070331,1.31686541804305,1.27961267831007E-16</p>
-          </pts>
-        </points>
-        <points id="790">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.07276627456213,1.31686541804305,1.27961267831007E-16</p>
-          </pts>
-        </points>
-        <points id="791">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.27433197122338,1.33748009156522,1.30485753848729E-16</p>
-          </pts>
-        </points>
-        <points id="792">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.43466832084028,1.21608256971243,1.15619336188808E-16</p>
-          </pts>
-        </points>
-        <points id="793">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.15293444937058,1.1152997213818,1.03277404546607E-16</p>
-          </pts>
-        </points>
-        <points id="794">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.75209357532834,0.913734024720546,7.8593541262207E-17</p>
-          </pts>
-        </points>
-        <points id="795">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.15293444937058,0.916024544000796,7.88740397086217E-17</p>
-          </pts>
-        </points>
-        <points id="796">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.27662249050362,0.936639217522966,8.1398525726344E-17</p>
-          </pts>
-        </points>
-        <points id="797">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.43466832084028,1.05803673937577,9.6264943386267E-17</p>
-          </pts>
-        </points>
-        <points id="798">
-          <ModificationCount>93</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.83550919488254,1.21837308899267,1.15899834635221E-16</p>
-          </pts>
-        </points>
-        <points id="815">
-          <ModificationCount>122</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.43466832084028,2.48634220983314,2.55868559395623E-16</p>
-          </pts>
-        </points>
-        <points id="820">
-          <ModificationCount>123</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.83550919488254,2.49134220983314,2.55868559395623E-16</p>
-          </pts>
-        </points>
-        <points id="692">
-          <ModificationCount>53</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.13550919488254,0.696514837911526,9.59844449398535E-17</p>
-          </pts>
-        </points>
-        <points id="964">
-          <ModificationCount>95</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.31231387352197,0.701587094137773,9.59844449398535E-17</p>
-          </pts>
-        </points>
-        <points id="980">
-          <ModificationCount>50</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>0.86,0.429999999999997,9.59844449398535E-17</p>
-          </pts>
-        </points>
-        <points id="996">
-          <ModificationCount>82</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.06,0.429999999999997,9.59844449398535E-17</p>
-          </pts>
-        </points>
-        <points id="1012">
-          <ModificationCount>77</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>1.255,0.429999999999997,9.59844449398535E-17</p>
           </pts>
         </points>
@@ -3333,31 +2637,13 @@
     <layer name=".04 drills" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
-        <points id="685">
+        <points id="1056">
           <ModificationCount>0</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>2.91796788897123,2.34634220983314,2.55868559395623E-16</p>
-          </pts>
-        </points>
-        <points id="686">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.91567736969098,2.20100586021624,2.36233668146669E-16</p>
-          </pts>
-        </points>
-        <points id="819">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.91796788897123,2.49134220983314,2.55868559395623E-16</p>
-          </pts>
-        </points>
-        <points id="25">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>3.16282279016668,1.89686873346206</p>
             <p>3.26282279016668,1.89686873346206</p>
             <p>3.26282279016668,1.79686873346206</p>
@@ -3368,23 +2654,11 @@
             <p>3.16282279016668,1.59686873346206</p>
             <p>3.16282279016668,1.49686873346206</p>
             <p>3.26282279016668,1.49686873346206</p>
-          </pts>
-        </points>
-        <points id="205">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.51712701492898,1.96050133579089,2.06781331273238E-16</p>
             <p>1.57114255218926,2.40257155687749,2.60917531431069E-16</p>
             <p>1.41080620257236,1.05803673937577,9.6264943386267E-17</p>
             <p>1.31231387352197,1.45658709413778,1.45071673062239E-16</p>
             <p>0.14414904059883,1.03513154657335,9.34599589221301E-17</p>
-          </pts>
-        </points>
-        <points id="691">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
             <p>2.91796788897123,1.21837308899267,1.15899834635221E-16</p>
           </pts>
         </points>
@@ -3447,7 +2721,10 @@
           <SpindleSpeed state="Default">1000</SpindleSpeed>
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive />
+          <primitive>
+            <prim>554</prim>
+            <prim>829</prim>
+          </primitive>
           <TargetDepth state="Value">-0.075</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.04</HoleDiameter>
@@ -3481,7 +2758,9 @@
           <SpindleSpeed state="Default">1000</SpindleSpeed>
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive />
+          <primitive>
+            <prim>1056</prim>
+          </primitive>
           <TargetDepth state="Value">-0.075</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.04</HoleDiameter>
@@ -3515,7 +2794,9 @@
           <SpindleSpeed state="Default">1000</SpindleSpeed>
           <SpindleRange state="Default">0</SpindleRange>
           <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive />
+          <primitive>
+            <prim>1057</prim>
+          </primitive>
           <TargetDepth state="Value">-0.075</TargetDepth>
           <DepthIncrement state="Default">0.015</DepthIncrement>
           <HoleDiameter state="Value">0.031</HoleDiameter>
@@ -3541,7 +2822,103 @@
       </Nesting>
     </part>
     <part Name="Part1">
-      <machineops />
+      <machineops>
+        <profile>
+          <WorkPlane state="Default">XY</WorkPlane>
+          <OptimisationMode state="Default">Experimental</OptimisationMode>
+          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
+          <ToolDiameter state="Default">0</ToolDiameter>
+          <ToolNumber state="Default">0</ToolNumber>
+          <ToolProfile state="Default">Unspecified</ToolProfile>
+          <PlungeFeedrate state="Default">10</PlungeFeedrate>
+          <CutFeedrate state="Default">30</CutFeedrate>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
+          <StartPoint state="Default" />
+          <CustomMOPHeader state="Default" />
+          <CustomMOPFooter state="Default" />
+          <Name>Profile1</Name>
+          <StockSurface state="Default">0</StockSurface>
+          <RoughingClearance state="Default">0</RoughingClearance>
+          <ClearancePlane state="Default">0.125</ClearancePlane>
+          <SpindleDirection state="Default">CW</SpindleDirection>
+          <SpindleSpeed state="Default">1000</SpindleSpeed>
+          <SpindleRange state="Default">0</SpindleRange>
+          <VelocityMode state="Default">Undefined</VelocityMode>
+          <primitive>
+            <prim>164</prim>
+            <prim>165</prim>
+            <prim>166</prim>
+            <prim>167</prim>
+            <prim>168</prim>
+            <prim>170</prim>
+            <prim>172</prim>
+            <prim>173</prim>
+            <prim>174</prim>
+            <prim>175</prim>
+            <prim>176</prim>
+            <prim>177</prim>
+            <prim>178</prim>
+            <prim>179</prim>
+            <prim>180</prim>
+            <prim>181</prim>
+            <prim>182</prim>
+            <prim>183</prim>
+            <prim>184</prim>
+            <prim>185</prim>
+            <prim>187</prim>
+            <prim>188</prim>
+            <prim>189</prim>
+            <prim>190</prim>
+            <prim>191</prim>
+            <prim>192</prim>
+            <prim>193</prim>
+            <prim>194</prim>
+            <prim>196</prim>
+            <prim>197</prim>
+            <prim>199</prim>
+            <prim>200</prim>
+            <prim>202</prim>
+            <prim>1044</prim>
+            <prim>1045</prim>
+            <prim>1046</prim>
+            <prim>1047</prim>
+            <prim>1048</prim>
+            <prim>1049</prim>
+            <prim>1050</prim>
+            <prim>1051</prim>
+            <prim>1052</prim>
+            <prim>1053</prim>
+            <prim>1054</prim>
+            <prim>818</prim>
+            <prim>1055</prim>
+          </primitive>
+          <TargetDepth state="Default">0</TargetDepth>
+          <DepthIncrement state="Default">0.015</DepthIncrement>
+          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
+          <CutOrdering state="Default">DepthFirst</CutOrdering>
+          <CutWidth state="Default">0</CutWidth>
+          <StepOver state="Default">0.4</StepOver>
+          <StepoverFeedrate state="Default">Plunge Feedrate</StepoverFeedrate>
+          <InsideOutside state="Default">Outside</InsideOutside>
+          <MillingDirection state="Default">Conventional</MillingDirection>
+          <CollisionDetection state="Default">True</CollisionDetection>
+          <CornerOvercut state="Default">False</CornerOvercut>
+          <LeadInMove state="Default" />
+          <LeadOutMove state="Default" />
+          <HoldingTabs state="Default">
+            <TabMethod>None</TabMethod>
+            <Width>0.1</Width>
+            <Height>0.1</Height>
+            <MinimumTabs>3</MinimumTabs>
+            <MaximumTabs>6</MaximumTabs>
+            <TabDistance>1.6</TabDistance>
+            <SizeThreshold>0.2</SizeThreshold>
+            <UseLeadIns>False</UseLeadIns>
+            <TabStyle>Triangle</TabStyle>
+          </HoldingTabs>
+          <SideProfile state="Default" />
+        </profile>
+      </machineops>
       <Stock>
         <PMin>0,0</PMin>
         <PMax>0,0</PMax>

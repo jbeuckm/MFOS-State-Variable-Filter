@@ -2509,6 +2509,33 @@
     <layer name=".031 drills" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
+        <points id="205">
+          <ModificationCount>122</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>2.51712701492898,1.96050133579089,2.06781331273238E-16</p>
+            <p>1.57114255218926,2.40257155687749,2.60917531431069E-16</p>
+            <p>1.41080620257236,1.05803673937577,9.6264943386267E-17</p>
+            <p>1.31231387352197,1.45658709413778,1.45071673062239E-16</p>
+            <p>0.14414904059883,1.03513154657335,9.34599589221301E-17</p>
+          </pts>
+        </points>
+        <points id="25">
+          <ModificationCount>147</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>3.16282279016668,1.89686873346206</p>
+            <p>3.26282279016668,1.89686873346206</p>
+            <p>3.26282279016668,1.79686873346206</p>
+            <p>3.16282279016668,1.79686873346206</p>
+            <p>3.16282279016668,1.69686873346206</p>
+            <p>3.26282279016668,1.69686873346206</p>
+            <p>3.26282279016668,1.59686873346206</p>
+            <p>3.16282279016668,1.59686873346206</p>
+            <p>3.16282279016668,1.49686873346206</p>
+            <p>3.26282279016668,1.49686873346206</p>
+          </pts>
+        </points>
         <points id="687">
           <ModificationCount>93</ModificationCount>
           <mat m="Identity" />
@@ -2535,6 +2562,13 @@
           <mat m="Identity" />
           <pts>
             <p>2.93629204321316,1.37641891932933,1.35254227437762E-16</p>
+          </pts>
+        </points>
+        <points id="691">
+          <ModificationCount>93</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>2.91796788897123,1.21837308899267,1.15899834635221E-16</p>
           </pts>
         </points>
         <points id="693">
@@ -3354,43 +3388,9 @@
             <p>2.91796788897123,2.49134220983314,2.55868559395623E-16</p>
           </pts>
         </points>
-        <points id="25">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>3.16282279016668,1.89686873346206</p>
-            <p>3.26282279016668,1.89686873346206</p>
-            <p>3.26282279016668,1.79686873346206</p>
-            <p>3.16282279016668,1.79686873346206</p>
-            <p>3.16282279016668,1.69686873346206</p>
-            <p>3.26282279016668,1.69686873346206</p>
-            <p>3.26282279016668,1.59686873346206</p>
-            <p>3.16282279016668,1.59686873346206</p>
-            <p>3.16282279016668,1.49686873346206</p>
-            <p>3.26282279016668,1.49686873346206</p>
-          </pts>
-        </points>
-        <points id="205">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>2.51712701492898,1.96050133579089,2.06781331273238E-16</p>
-            <p>1.57114255218926,2.40257155687749,2.60917531431069E-16</p>
-            <p>1.41080620257236,1.05803673937577,9.6264943386267E-17</p>
-            <p>1.31231387352197,1.45658709413778,1.45071673062239E-16</p>
-            <p>0.14414904059883,1.03513154657335,9.34599589221301E-17</p>
-          </pts>
-        </points>
-        <points id="691">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>2.91796788897123,1.21837308899267,1.15899834635221E-16</p>
-          </pts>
-        </points>
       </objects>
     </layer>
-    <layer name=".0472 drills" color="127,255,0">
+    <layer name=".0465 drills" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
         <points id="829">
@@ -3430,47 +3430,13 @@
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Value">0.0472</ToolDiameter>
-          <ToolNumber state="Value">7</ToolNumber>
-          <ToolProfile state="Value">Drill</ToolProfile>
-          <PlungeFeedrate state="Value">20</PlungeFeedrate>
-          <CutFeedrate state="Value">40</CutFeedrate>
-          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
-          <Name>.0472 drills</Name>
-          <StockSurface state="Default">0</StockSurface>
-          <RoughingClearance state="Default">0</RoughingClearance>
-          <ClearancePlane state="Default">0.125</ClearancePlane>
-          <SpindleDirection state="Default">CW</SpindleDirection>
-          <SpindleSpeed state="Default">1000</SpindleSpeed>
-          <SpindleRange state="Default">0</SpindleRange>
-          <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive />
-          <TargetDepth state="Value">-0.075</TargetDepth>
-          <DepthIncrement state="Default">0.015</DepthIncrement>
-          <HoleDiameter state="Value">0.04</HoleDiameter>
-          <DrillLeadOut state="Default">False</DrillLeadOut>
-          <SpiralFlatBase state="Default">True</SpiralFlatBase>
-          <LeadOutLength state="Default">0</LeadOutLength>
-          <DrillingMethod state="Default">CannedCycle</DrillingMethod>
-          <PeckDistance state="Default">0</PeckDistance>
-          <RetractHeight state="Default">0.125</RetractHeight>
-          <Dwell state="Default">0</Dwell>
-          <CustomScript state="Default" />
-        </drill>
-        <drill>
-          <WorkPlane state="Default">XY</WorkPlane>
-          <OptimisationMode state="Default">Experimental</OptimisationMode>
-          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
           <ToolDiameter state="Value">0.04</ToolDiameter>
           <ToolNumber state="Value">1</ToolNumber>
           <ToolProfile state="Value">Drill</ToolProfile>
           <PlungeFeedrate state="Value">20</PlungeFeedrate>
           <CutFeedrate state="Value">40</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>.04 drills</Name>
@@ -3504,7 +3470,7 @@
           <PlungeFeedrate state="Value">20</PlungeFeedrate>
           <CutFeedrate state="Value">40</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>.031 drills</Name>
@@ -3554,6 +3520,6 @@
       </Nesting>
     </part>
   </parts>
-  <ActiveLayer>.0472 drills</ActiveLayer>
+  <ActiveLayer>.0465 drills</ActiveLayer>
   <ActivePart>drills</ActivePart>
 </CADFile>

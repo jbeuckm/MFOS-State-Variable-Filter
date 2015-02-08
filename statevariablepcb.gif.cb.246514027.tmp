@@ -3430,47 +3430,13 @@
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Value">0.0472</ToolDiameter>
-          <ToolNumber state="Value">7</ToolNumber>
-          <ToolProfile state="Value">Drill</ToolProfile>
-          <PlungeFeedrate state="Value">20</PlungeFeedrate>
-          <CutFeedrate state="Value">40</CutFeedrate>
-          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
-          <Name>.0472 drills</Name>
-          <StockSurface state="Default">0</StockSurface>
-          <RoughingClearance state="Default">0</RoughingClearance>
-          <ClearancePlane state="Default">0.125</ClearancePlane>
-          <SpindleDirection state="Default">CW</SpindleDirection>
-          <SpindleSpeed state="Default">1000</SpindleSpeed>
-          <SpindleRange state="Default">0</SpindleRange>
-          <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive />
-          <TargetDepth state="Value">-0.075</TargetDepth>
-          <DepthIncrement state="Default">0.015</DepthIncrement>
-          <HoleDiameter state="Value">0.04</HoleDiameter>
-          <DrillLeadOut state="Default">False</DrillLeadOut>
-          <SpiralFlatBase state="Default">True</SpiralFlatBase>
-          <LeadOutLength state="Default">0</LeadOutLength>
-          <DrillingMethod state="Default">CannedCycle</DrillingMethod>
-          <PeckDistance state="Default">0</PeckDistance>
-          <RetractHeight state="Default">0.125</RetractHeight>
-          <Dwell state="Default">0</Dwell>
-          <CustomScript state="Default" />
-        </drill>
-        <drill>
-          <WorkPlane state="Default">XY</WorkPlane>
-          <OptimisationMode state="Default">Experimental</OptimisationMode>
-          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
           <ToolDiameter state="Value">0.04</ToolDiameter>
           <ToolNumber state="Value">1</ToolNumber>
           <ToolProfile state="Value">Drill</ToolProfile>
           <PlungeFeedrate state="Value">20</PlungeFeedrate>
           <CutFeedrate state="Value">40</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>.04 drills</Name>
@@ -3504,7 +3470,7 @@
           <PlungeFeedrate state="Value">20</PlungeFeedrate>
           <CutFeedrate state="Value">40</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
+          <StartPoint state="Default">0,0,0</StartPoint>
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
           <Name>.031 drills</Name>
